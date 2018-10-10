@@ -1,6 +1,6 @@
 # Image Captioning
 
-This program lets you generate captions using a Neural Network.
+This program lets you *generate captions* using a Neural Network.
 
 
 ### Dependencies
@@ -27,6 +27,6 @@ Structure of the model used:
 
 ## Sample images
 
-![screenshot_16](https://user-images.githubusercontent.com/26195811/46757871-09489c80-cce9-11e8-99d0-bc151b052313.png)
-![screenshot_20](https://user-images.githubusercontent.com/26195811/46758233-fd110f00-cce9-11e8-8995-ff975306ab0c.png)
-![screenshot_18](https://user-images.githubusercontent.com/26195811/46758183-d652d880-cce9-11e8-8f6a-78cd7b5febbc.png)
+* ![screenshot_16](https://user-images.githubusercontent.com/26195811/46757871-09489c80-cce9-11e8-99d0-bc151b052313.png)
+* ![screenshot_20](https://user-images.githubusercontent.com/26195811/46758233-fd110f00-cce9-11e8-8995-ff975306ab0c.png)
+* ![screenshot_18](https://user-images.githubusercontent.com/26195811/46758183-d652d880-cce9-11e8-8f6a-78cd7b5febbc.png)
